@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void print(void)
+void printAla(void)
 {
-    printf("ala ma kota");
+    printf("ala ma kota a kot ma ale");
 }

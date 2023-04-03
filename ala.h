@@ -1,1 +1,1 @@
-void print(void);
+void printAla(void);

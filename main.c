@@ -2,7 +2,7 @@
 
 int main ()
 {
-    print();
+    printAla();
 
     return 0;
 }
