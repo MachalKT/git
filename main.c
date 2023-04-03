@@ -1,9 +1,8 @@
-#include <stdio.h>
-#include <stdlib.h>
+#include "ala.h"
 
 int main ()
 {
-    printf("ala ma kota");
+    print();
 
     return 0;
 }
